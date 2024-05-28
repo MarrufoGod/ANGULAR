@@ -27,5 +27,24 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 =======
+
 # ANGULAR
 
+Cosas Necesarias
+
+IMPORTANTE 
+se necesita el [npm install] para poder ejecutar el proyecto
+
+nodejs 20
+https://nodejs.org/en/download/prebuilt-installer
+
+npm install -g @angular/cli
+
+Para verificar la version
+ng version 
+
+Extencion de VScode
+Angular Language Service
+
+
+Los commits que sean de Cosas pequeñas para que sea  mas facil solucionar ciertos errores
